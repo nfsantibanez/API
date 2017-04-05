@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Sitio de Heroku: https://mysterious-fortress-70514.herokuapp.com/
 
-Things you may want to cover:
+* Datos de la DB: 
 
-* Ruby version
+Db usada: postgresql
 
-* System dependencies
+Tabla: usuarios
 
-* Configuration
+Atributos: id(integer), usuario(string), nombre(string), apellido(string), twitter(string), created_at (datetime), update_at(datetime)
 
-* Database creation
+Key primaria: id
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
